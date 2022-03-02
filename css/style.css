@@ -84,7 +84,7 @@ margin: 1px 8px;
 
  #home::before{
     content: "";
-    background: url('../bg2.jpg') no-repeat center center/cover;
+    background: url('https://cdn.pixabay.com/photo/2016/12/26/17/28/spaghetti-1932466_960_720.jpg') no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left: 0px;
