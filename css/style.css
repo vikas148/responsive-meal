@@ -135,7 +135,7 @@ position: relative;
 #client-section::before{
     content: "";
     position: absolute;
-    background: url('../bg.jpg');
+    background: url('https://cdn.pixabay.com/photo/2019/05/10/13/28/contact-us-4193523_960_720.jpg');
     width: 100%;
     height: 40%;
     z-index: -1;
